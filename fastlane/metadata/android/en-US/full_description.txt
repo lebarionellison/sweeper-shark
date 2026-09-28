@@ -1,0 +1,7 @@
+﻿Sweeper Shark is a private, local-first email threat scanner from Daemon OS.
+
+Open an email message file and analyze it on-device for common phishing and spam signals, including urgent language, sensitive financial requests, suspicious links, and other recognizable patterns.
+
+Sweeper Shark does not require an account, cloud upload, analytics SDK, ads, Google Play Services, or a mandatory network connection. The first release is intentionally small and transparent so the scanner can remain useful without sending messages anywhere.
+
+Threat scores are explainable signals, not guarantees. Always verify unexpected requests through a trusted channel.
