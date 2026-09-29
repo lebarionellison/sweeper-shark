@@ -1,0 +1,8 @@
+﻿Initial public release of Sweeper Shark Core.
+
+- Local email threat scanning
+- Explainable phishing and spam signals
+- Suspicious-link detection
+- Local quarantine
+- Local cleanup history
+- No account, ads, analytics, or cloud scanning

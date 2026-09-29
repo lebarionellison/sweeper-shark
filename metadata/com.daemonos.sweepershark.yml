@@ -1,0 +1,32 @@
+﻿Categories:
+  - Internet
+License: MIT
+AuthorName: Lebarion J. Ellison
+WebSite: https://github.com/lebarionellison/sweeper-shark
+SourceCode: https://github.com/lebarionellison/sweeper-shark
+IssueTracker: https://github.com/lebarionellison/sweeper-shark/issues
+Name: Sweeper Shark
+Summary: Local email threat scanner for spam and phishing
+Description: |
+  Sweeper Shark is a private, local-first email threat scanner from Daemon OS.
+
+  The Core application analyzes imported email messages on the device for
+  recognizable phishing and spam signals, including suspicious links, urgent
+  language, credential requests, and financial requests.
+
+  Message contents are not uploaded for analysis. The Core application does
+  not require an account, advertising, analytics SDKs, Google Play Services,
+  or mandatory cloud scanning.
+
+  Threat scores are explainable signals and are not guarantees of malicious
+  intent.
+RepoType: git
+Repo: https://github.com/lebarionellison/sweeper-shark.git
+
+Builds:
+  - versionName: 1.0.0
+    versionCode: 1
+    commit: 28e692e
+    subdir: app
+    gradle:
+      - yes
